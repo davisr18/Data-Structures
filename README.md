@@ -2,9 +2,13 @@
 created in ATOM
 
  My Goals:
+ 
  Implement Linked Lists  
+ 
  Implement Queues   
- Implement Priority Queues  
+ 
+ Implement Priority Queues 
+  
  Perform a Code Analysis 
  
 Overview 
